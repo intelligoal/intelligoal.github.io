@@ -5,7 +5,7 @@
 <p align="center">Simple landing page made for <a href="https://1mb.site">1mb.site</a></p>
 
 ### Usage
-Head over to the templates section of the <a href="https://1mb.site">1mb.site</a> editor and choose "Landing". 1mb site will automagically load the template into the editor. ✨
+Head over to the templates section of the <a href="https://1mb.site">1mb.site</a> editor and choose "Kerr Landing". 1mb site will automagically load the template into the editor. ✨
 
 ![](https://i.postimg.cc/ZnVhXnD4/Screenshot-2019-02-12-at-13-52-11.png)
 
