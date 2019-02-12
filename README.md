@@ -1,4 +1,4 @@
-<p align="center"><a href="http://usewing.ml" target="_blank"><img width="125"src="https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fs3.amazonaws.com%2Fpix.iemoji.com%2Fimages%2Femoji%2Fapple%2Fios-11%2F256%2Frocket.png&f=1"></a></p>
+<p align="center"><a href="http://kerr.1mb.site" target="_blank"><img width="125"src="https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fs3.amazonaws.com%2Fpix.iemoji.com%2Fimages%2Femoji%2Fapple%2Fios-11%2F256%2Frocket.png&f=1"></a></p>
 
 <h1 align="center">Landing</h1>
 
@@ -18,4 +18,4 @@ The code below was written *exclusively* for 1mbsite, please do not use it outwi
 
 landing © 2019 - Made with ❤️ by @kerrtravers
 
-1mbsite © 2018 – Made with ❤️ by @DaltonEdwards
+1mbsite © 2019 – Made with ❤️ by @DaltonEdwards
