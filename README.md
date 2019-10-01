@@ -12,7 +12,6 @@ Head over to the templates section of the <a href="https://1mb.site">1mb.site</a
 *or*
 
 You can download this repo and use it as a template if you credit me somewhere. 🌟
-![](http://u.cubeupload.com/kerr/Screenshot20190315at.png)
 
 ### Preview
 ![](https://raw.githubusercontent.com/kerrtravers/landing/master/screenshot.png)
